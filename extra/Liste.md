@@ -13,7 +13,7 @@ Liste des choses donc a mettre dans son sac
 
 * Divers :
     * Carte de Visite Blanche avec les numeros de 5 de vos proches et 5 numero d'urgence. [Utilite] [Achat]
-
+    * 2 bougies Chauffes Plat [Utilite] [Achat]
 
 * Geek :
     * Cable usb mini / micro & co [Utilite] [Achat]
@@ -41,7 +41,7 @@ Liste des choses donc a mettre dans son sac
     
 * Magie / Jeux :
     * 30 D6 [Utilite] [Achat]
-    * 1 jeux de carte. [Utilite] [Achat]
+    * 1 Jeu de carte. [Utilite] [Achat]
     * Un mini flacon de proflamme [Utilite] [Achat]
     * Un mini flacon de kerdanne [Utilite] [Achat]
     * Coton Flash [Utilite] [Achat]
