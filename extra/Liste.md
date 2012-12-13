@@ -24,6 +24,7 @@ Liste des choses donc a mettre dans son sac
     * Mini lampe Torche
     * Epingles a nourrice
     * Mousqueton
+    * Sifflet
     
 * Magie / Jeux :
     * 30 D6
