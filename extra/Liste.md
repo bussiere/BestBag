@@ -1,51 +1,71 @@
-Date: 2012-12-07
+Date: 2020-12-13
 Title: Liste Basique de chose a mettre dans son sac
 Category: Liste
 Tags: Liste,
-[0]: http://www.flickr.com/groups/52241283780@N01/pool/  "Photo de sac utiles"
-[1]: http://ask.metafilter.com/103531/organize-my-pack  "Metafilter What else ?"
-[2]: http://ask.metafilter.com/89542/Purse-contents-for-the-perpetually-prepared-person  "Metafilter What else ?"
-[3]: http://answers.yahoo.com/question/index?qid=20060922171248AAYruxT  "Yahoo"
 
 Liste des choses donc a mettre dans son sac
 
+
+* Contenant :
+    * Boite Muji [Utilite] [Achat]
+    * Porte Carte [Utilite] [Achat]
+    * Sac Plastique [Utilite] [Achat]
+
+* Divers :
+    * Carte de Visite Blanche avec les numeros de 5 de vos proches et 5 numero d'urgence. [Utilite] [Achat]
+
+
 * Geek :
-    * Cable usb
-    * Chargeur Usb
-    * Clef usb
-    * apn
+    * Cable usb mini / micro & co [Utilite] [Achat]
+    * Chargeur Usb [Utilite] [Achat]
+    * Clef usb [Utilite] [Achat]
+    * Apn [Utilite] [Achat]
 
 * Outils :
-    * Un couteau suisse (on n'y echappe pas).
-    * Une pince 
-    * Briquet
-    * Corde D'escalade  6m
-    * Mini kit de crochetage
-    * Mini lampe Torche
-    * Epingles a nourrice
-    * Mousqueton
-    * Sifflet
+    * Un couteau suisse (on n'y echappe pas). [Utilite] [Achat]
+    * Une pince [Utilite] [Achat]
+    * Briquet [Utilite] [Achat]
+    * Corde D'escalade  6m [Utilite] [Achat]
+    * Mini kit de crochetage [Utilite] [Achat]
+    * Mini lampe Torche [Utilite] [Achat]
+    * Epingles a nourrice [Utilite] [Achat]
+    * Mousqueton [Utilite] [Achat]
+    * Sifflet [Utilite] [Achat]
+    * Boussole [Utilite] [Achat]
+    * Aiguille [Utilite] [Achat]
+    * Mini Duct Tape  [Utilite] [Achat]
+    * Mini Chaine [Utilite] [Achat]
+    * Mini Tube de colle Forte [Utilite] [Achat]
+    * Cadenas [Utilite] [Achat]
+    * Liens Universel [Utilite] [Achat]
     
 * Magie / Jeux :
-    * 30 D6
-    * 1 jeux de carte.
-    * Un mini flacon de proflamme
-    * Un mini flacon de kerdanne
+    * 30 D6 [Utilite] [Achat]
+    * 1 jeux de carte. [Utilite] [Achat]
+    * Un mini flacon de proflamme [Utilite] [Achat]
+    * Un mini flacon de kerdanne [Utilite] [Achat]
+    * Coton Flash [Utilite] [Achat]
 
 * Note :
-    * Stylo Bic
-    * Mini calepin
+    * Stylo Bic [Utilite] [Achat]
+    * Mini calepin [Utilite] [Achat]
+    * Marqueur Noir Indelebile [Utilite] [Achat]
 
 * Nourriture :
-    * Chewing Gum
+    * Chewing Gum [Utilite] [Achat]
+    * Barre Energetique [Utilite] [Achat]
+    * Sucre [Utilite] [Achat]
 
 * Sante :
-    * Anti Diaretique
-    * Aspirine
-    * Mini flacon desinfectant Main
+    * Anti Diaretique [Utilite] [Achat]
+    * Aspirine [Utilite] [Achat]
+    * Mini flacon desinfectant Main [Utilite] [Achat]
+    * Mini Flacon de Desinfectant classique. [Utilite] [Achat]
+    * Capote [Utilite][Achat]
     
 * Social :
-    * Cartes de Visites
+    * Cartes de Visites [Utilite] [Achat]
+    
 
      
 
