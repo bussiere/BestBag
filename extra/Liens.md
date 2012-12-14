@@ -10,8 +10,11 @@ Tags: Liens,
 Quelques liens qui ont inspiré cette liste.
 
 [http://www.flickr.com/groups/52241283780@N01/pool/][0]
+
 [http://edcforums.com/][1]
+
 [http://ask.metafilter.com/89542/Purse-contents-for-the-perpetually-prepared-person][2]
+
 [http://answers.yahoo.com/question/index?qid=20060922171248AAYruxT][3]
 
 
